@@ -5,3 +5,4 @@ CLI supports several commands:
  - `exit` - logout and close cli
 
     
+# instagram-webdriver
